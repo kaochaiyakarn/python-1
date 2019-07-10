@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#testttt
 set -Eeuo pipefail
 
 declare -A aliases=(
